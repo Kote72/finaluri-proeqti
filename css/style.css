@@ -1,0 +1,470 @@
+.p0{
+	display: inline-block;
+	width: 100px;
+color: black;
+font-family: cursive;
+font-size: 82px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.p1{
+	display: inline-block;
+	width: 100px;
+	color: black;
+text-align: right;
+font-family: Circular Std;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 800px;
+}
+a:link,
+a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+a:hover {
+    color:black;
+}   
+
+.p2{
+display: inline-block;
+	width: 100px;
+	color: black;
+text-align: right;
+font-family: Circular Std;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 10px;
+
+}
+.p3{
+	display: inline-block;
+	width: 100px;	
+	color: black;
+text-align: right;
+font-family: Circular Std;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 50px;
+}
+.p4{
+	display: inline-block;
+	width: 100px;	
+	color:black;
+text-align: right;
+font-family: Circular Std;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 10px;
+}
+.p5{
+	display: inline-block;
+	width: 100px;	
+	color: black;
+text-align: right;
+font-family: Circular Std;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 10px;
+}
+.nav1{
+	justify-content: space-around;
+}
+
+
+.logo{
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+.h1{
+	color: white;
+font-family: cursive;
+font-size: 230px;
+font-style: normal;
+font-weight: 900;
+line-height: 76%;
+margin-top: 50px;
+
+}
+
+.p6{
+color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 80px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: lowercase;
+margin-top: 100px;
+}
+     
+.p7{
+color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 50px;
+}    
+
+.p8{
+	color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: lowercase;
+}
+
+.div1{
+	background-color: #00beac;
+}
+
+
+
+.div2{
+	background-color:#00beac; 
+	display: flex;
+	justify-content: space-around;
+}
+.div3{
+	color: black;
+text-align: center;
+font-family: Circular Std;
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.main-foto{
+	position: relative;
+	width: 1850px;
+
+}
+
+.main-foto h1{
+	position: absolute;
+	z-index: 1;
+    top: 50%;
+    left: 30%;
+	transform:translate(-50%,-50%);
+	margin-left: 100px;
+}
+
+.box-image{
+	width: 300px;
+	height: 400px;
+	position: relative;
+
+}
+
+.box-image p{
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+color: white;
+font-size: 30px;
+}
+
+
+
+.venice{
+	
+	font-size: 20px;
+	font-weight: 20px;
+	margin-top: 180px;
+}
+.paris{
+	margin-left: 10px;
+	margin-top: 180px;
+}
+
+.kyoto{
+	margin-left: 30px;
+	margin-top: 180px;
+}
+
+.siyvaruli{
+	width: 550px;
+	height: 600px;
+	position: relative;
+	margin-left: 	20px;
+}
+
+.siyvaruli p{
+	position: absolute;
+  z-index: 1;
+  top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+color: white;
+font-size: 30px;
+}
+
+
+
+.didi-siyvaruli{
+	display: flex;
+	justify-content: space-around;
+	margin-right: 50px;
+}
+
+
+.ojaxi{
+	width: 550px;
+	height: 600px;
+	position: relative;
+	margin-top: 180px;
+}
+
+.ojaxi p{
+	position: absolute;
+  z-index: 1;
+  top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+
+
+.didi-ojaxi{
+	display: flex;
+	justify-content: space-around;
+	margin-right: 50px;
+	width: 100%;
+}
+
+
+.megobrebi{
+	width: 550px;
+	height: 600px;
+	position: relative;
+}
+
+.megobrebi p{
+	position: absolute;
+  z-index: 1;
+  top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+.didi-megobrebi{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+
+
+.zgva{
+	width: 550px;
+	height: 600px;
+	position: relative;
+}
+
+.zgva p{
+	position: absolute;
+  z-index: 1;
+  top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+.didi-zgva{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.didi-div{
+	background-color: #00BEAC ;
+}
+
+
+.p9{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 900;
+line-height: 156.687%; 
+text-transform: uppercase;
+width: 550px;
+display: inline-block;
+}
+
+.qvedanavbar1{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 400; 
+background-color: #003531;
+width: 550px;
+display: inline-block;
+margin-left: 50px;
+}
+
+.p10{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 900;
+line-height: 156.687%; 
+text-transform: uppercase;
+width: 550px;
+display: inline-block;
+}
+
+.qvedanavbar2{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 400; 
+background-color: #003531;
+width: 550px;
+display: inline-block;
+margin-left: 100px;
+}
+
+.p11{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 900;
+line-height: 156.687%; 
+text-transform: uppercase;
+width: 550px;
+display: inline-block;
+}
+
+.qvedanavbar3{
+	color: white;
+font-family: Circular Std;
+font-size: 23px;
+font-style: normal;
+font-weight: 400; 
+background-color: #003531;
+width: 450px;
+display: inline-block;
+margin-left: 50px;
+}
+
+.logoebi{
+	background-color:#003531;
+	width: 27px;
+	height: 27px;
+	display: inline-block;
+}
+
+.qvedanavbar{
+background-color:#003531 ;
+}
+
+
+.guli{
+	color: white;
+}
+.family{
+	color: white;
+}
+.friend{
+	color: white;
+}
+
+.wyali{
+	color: white;
+}
+
+.p12{
+	color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: lowercase;
+margin-top: 300px;
+}
+
+.p13{
+	color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: lowercase;
+}
+
+
+.p14{
+	color: white;
+text-align: center;
+font-family: Circular Std;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: lowercase;
+}
+
+.contact-info{
+  display:flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+  .div3, .div4, .div5{
+ display: flex;
+  width: 180px;
+  flex-direction: column;
+ align-items: center;
+ background-color: white;
+}
+
+
+
+
